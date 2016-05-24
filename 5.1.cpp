@@ -1,4 +1,3 @@
-/*5.1. Defina	um	vetor	contendo	5	valores	inteiros	quaisquer.*/
 #include<stdio.h>
 #include<conio.h>
 #include<locale.h>
